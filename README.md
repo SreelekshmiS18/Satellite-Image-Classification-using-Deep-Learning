@@ -49,7 +49,4 @@ The dataset consists of **four major land types**, categorized into:
 🔸 **Edge AI for IoT Devices** – Optimize the model for **drones and satellites**.  
 🔸 **Enhanced Classification** – Improve accuracy using **Transfer Learning (ResNet, VGG)**.  
 
----
 
-### 🔗 Let’s Innovate for a Sustainable Future! 🚀  
-If you found this project useful, **⭐ Star this repository** and let’s advance Earth monitoring with AI!  
